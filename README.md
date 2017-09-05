@@ -1,5 +1,5 @@
 # linear-regression
-This repository contains the assignment code for the course [Deep Learning Prerequisites: Linear Regression in Python](https://www.udemy.com/data-science-linear-regression-in-python/)
+This repository contains the code for the course [Deep Learning Prerequisites: Linear Regression in Python](https://www.udemy.com/data-science-linear-regression-in-python/).
 
 ## Contents
 file | Overview
